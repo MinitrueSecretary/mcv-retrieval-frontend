@@ -1,42 +1,34 @@
 {
     "cem_ii":{
-        "1":{
+        "3":{
             "videoId":"b0tmxvX5YNg",
             "videoName":"1/2566 CEM II - 7 Aug 2023 - L01 Part I Signals",
             "uploader":"Punnarai Siricharoen",
-            "transcript_id":"1",
-            "filename":"class1"
-
-        },
-        "2":{
-            "videoId":"YT3Rw5-mgDw",
-            "videoName":"2110203 (2023/1) PART I - 11 Aug 2023 - Signals Zoom Link [MONDAY & FRIDAY]",
-            "uploader":"Punnarai Siricharoen",
-            "transcript_id":"2",
-            "filename":"class_sig2"
-        },
-        "3":{
-            "videoId":"djK5HWXsm4w",
-            "videoName":"L01 Intro to optimization",
-            "uploader":"EkapolC",
-            "transcript_id":"3",
-            "filename":"class_opt1"
+            "transcript_id":"L03",
+            "filename":"signal01"
 
         },
         "4":{
-            "videoId":"SrgIFZ55NQw",
-            "videoName":"Stats L01 Intro",
+            "videoId":"JhKES7llO0w",
+            "videoName":"cem2-Testing-2566",
             "uploader":"EkapolC",
-            "transcript_id":"4",
-            "filename":"class_stat1"
+            "transcript_id":"L04",
+            "filename":"testing"
+        },
+        "1":{
+            "videoId":"djK5HWXsm4w",
+            "videoName":"L01 Intro to optimization",
+            "uploader":"EkapolC",
+            "transcript_id":"L01",
+            "filename":"optimization"
 
         },
-        "5":{
+        "2":{
             "videoId":"OAB6ipUToZ4",
             "videoName":"L02-MLE MAP",
             "uploader":"EkapolC",
-            "transcript_id":"5",
-            "filename":"class1"
+            "transcript_id":"L02",
+            "filename":"mle"
         }
     }
 }
